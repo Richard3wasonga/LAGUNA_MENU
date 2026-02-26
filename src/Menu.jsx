@@ -4,7 +4,7 @@ import logo from "./assets/logo5-cb.png";
 import "./index.css";
 
 export default function Menu() {
-  const websiteUrl = "https://laguna-menu.vercel.app/";
+  const websiteUrl = "https://laguna-menu.onrender.com/";
 
   const menuSections = [
     {
