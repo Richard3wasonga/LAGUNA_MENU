@@ -4,7 +4,7 @@ import logo from "./assets/logo5-cb.png";
 import "./index.css";
 
 export default function Menu() {
-  const websiteUrl = "https://www.bimossbeachresort.co.ke/";
+  const websiteUrl = "https://laguna-menu.vercel.app/";
 
   const menuSections = [
     {
@@ -17,8 +17,7 @@ export default function Menu() {
           price: 800,
           includes: [
             "Eggs",
-            "Bacon",
-            "Sausage",
+            "Bacon or Sausage",
             "Bread",
             "Juice",
             "Fresh Fruit cuts",
