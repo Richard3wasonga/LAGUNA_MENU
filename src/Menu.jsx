@@ -57,6 +57,18 @@ export default function Menu() {
       ],
     },
     {
+      title: "Drinks",
+      image:
+        "https://images.unsplash.com/photo-1582106245687-cbb466a9f07f?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      items: [
+        { name: "Delmonte Juice", price: 400 },
+        { name: "Soda", price: 100 },
+        { name: "Freshly Squeezed Juice", price: 150 },
+        { name: "Water 500ml", price: 70 },
+        { name: "Water 1 litre", price: 140 },
+      ],
+    },
+    {
       title: "Main Dishes",
       image:
         "https://images.unsplash.com/photo-1555939594-58d7cb561ad1",
@@ -101,9 +113,6 @@ export default function Menu() {
         { name: "Mukimo", price: 200 },
         { name: "Pilau", price: 250 },
         { name: "Chapati", price: 100 },
-        { name: "Soda", price: 100 },
-        { name: "Mineral Water", price: 70 },
-        { name: "Juice Packet", price: 400 },
       ],
     },
     {
